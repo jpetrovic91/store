@@ -5,7 +5,7 @@ spring:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
   datasource:
     platform: postgres
-    url: jdbc:postgresql://localhost:5432/vjezba
+    url: jdbc:postgresql://localhost:5444/vjezba
     username: postgres
     password: 1234
     driverClassName: org.postgresql.Driver
